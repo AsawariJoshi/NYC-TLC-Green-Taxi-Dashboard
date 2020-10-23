@@ -1,7 +1,7 @@
 # NYC-TLC-Green-Taxi-Dashboard
 
 Task:
-Build a Power BI Dashboard to generate insights and provide an overview of the NYC Green Taxi Dataset.
+Build a Power BI Dashboard to generate insights and provide an overview of the NYC Green Taxi Dataset for data collected for Dec 2018.
 
 
 Project Description:
